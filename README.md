@@ -7,7 +7,7 @@
 ## 📝 Case Report
 
 - Access the complete Python notebook here  
-➡️ [Python Notebook](Ritesh_Yulu.ipynb)
+➡️ [Python Notebook](Ritesh_Yulu_Business_case_study.ipynb)
 
 - Access the complete case study report here  
 ➡️ [Project Report](Ritesh_Yulu_Business_case_study_Colab.pdf)
